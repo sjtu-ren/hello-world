@@ -1,4 +1,3 @@
-# hello-world
-first repository
+# 机器学习编程作业
+文件结构
 
-this is my first attempt to use github
